@@ -1,7 +1,8 @@
 # app-dev
-My favorite series/movies:
+*Kobe Stephen C. Payawal BSIT-503*
+**My favorite series/movies:**
 
-Series:
+**Series:**
 1. Youth of May
 2. Sweet Home 1-3
 3. Squid Game 1-3
@@ -19,7 +20,7 @@ Series:
 15. The Good Bad Mother
 16. Queen of Tears
 
-Movies:
+**Movies:**
 1. Parasite
 2. Ballerina
 3. The Witch: Part 1 - The Subversion 2018
